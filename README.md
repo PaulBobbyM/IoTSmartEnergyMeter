@@ -50,7 +50,5 @@ It serves as a practical demonstration of IoT-based power measurement for smart 
 ## Working Principle
 The ESP32 communicates with the PZEM004T v3.0 energy meter via UART. The module provides real-time readings of AC electrical parameters, which are then validated and transmitted over Wi-Fi to the Blynk IoT cloud. The data can be monitored through the Blynk dashboard on a web interface or mobile app.
 
----
 
-## Example Serial Output
 
